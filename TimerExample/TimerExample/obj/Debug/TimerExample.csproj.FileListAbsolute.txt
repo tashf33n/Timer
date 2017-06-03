@@ -1,0 +1,6 @@
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\obj\Debug\TimerExample.csprojResolveAssemblyReference.cache
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+D:\Tashfeen\DevOps Training Material\C# Projects\TimerExample\TimerExample\obj\Debug\TimerExample.pdb
